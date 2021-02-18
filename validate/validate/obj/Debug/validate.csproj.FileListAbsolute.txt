@@ -1,0 +1,5 @@
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\validate\validate\bin\validate.dll
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\validate\validate\bin\validate.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\validate\validate\obj\Debug\validate.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\validate\validate\obj\Debug\validate.dll
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\validate\validate\obj\Debug\validate.pdb

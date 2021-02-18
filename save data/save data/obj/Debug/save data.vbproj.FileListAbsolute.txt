@@ -1,0 +1,20 @@
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\bin\Debug\save data.exe.config
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\bin\Debug\save data.exe
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\bin\Debug\save data.pdb
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\bin\Debug\save data.xml
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\obj\Debug\save_data.Form1.resources
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\obj\Debug\save_data.Resources.resources
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\obj\Debug\save data.vbproj.GenerateResource.Cache
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\obj\Debug\save data.exe
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\obj\Debug\save data.xml
+C:\Users\Faisal\AppData\Local\Temporary Projects\save data\obj\Debug\save data.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\bin\Debug\save data.exe.config
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\obj\Debug\save data.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\obj\Debug\save data.xml
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\obj\Debug\save data.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\bin\Debug\save data.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\bin\Debug\save data.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\bin\Debug\save data.xml
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\obj\Debug\save_data.Form1.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\obj\Debug\save_data.Resources.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\save data\save data\obj\Debug\save data.vbproj.GenerateResource.Cache

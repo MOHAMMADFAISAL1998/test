@@ -1,0 +1,9 @@
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\bin\Debug\XML.exe.config
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\bin\Debug\XML.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\bin\Debug\XML.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\XML\XML\obj\Debug\XML.pdb

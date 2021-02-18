@@ -1,0 +1,5 @@
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\newprogram\newprogram\bin\newprogram.dll
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\newprogram\newprogram\bin\newprogram.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\newprogram\newprogram\obj\Debug\newprogram.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\newprogram\newprogram\obj\Debug\newprogram.dll
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\newprogram\newprogram\obj\Debug\newprogram.pdb

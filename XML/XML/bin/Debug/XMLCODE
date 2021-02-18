@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<XMLDATASET>
+  <XMLCODE>
+    <Name>Akash</Name>
+    <Course>BCA</Course>
+    <University>MCRPV</University>
+  </XMLCODE>
+  <XMLCODE>
+    <Name>Faisal</Name>
+    <Course>BCA</Course>
+    <University>MCRPV</University>
+  </XMLCODE>
+</XMLDATASET>

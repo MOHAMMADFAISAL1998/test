@@ -1,0 +1,10 @@
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\bin\Release\stopwatch.exe.config
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\bin\Release\stopwatch.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\bin\Release\stopwatch.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\bin\Release\stopwatch.xml
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\obj\Release\WindowsApplication1.stopwatch.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\obj\Release\stopwatch.vbproj.GenerateResource.Cache
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\obj\Release\stopwatch.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\obj\Release\stopwatch.xml
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\stopwatch\stopwatch\obj\Release\stopwatch.pdb

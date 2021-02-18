@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Addkaro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="a" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="b" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddkaroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddkaroResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AddkaroSoapIn">
+    <wsdl:part name="parameters" element="tns:Addkaro" />
+  </wsdl:message>
+  <wsdl:message name="AddkaroSoapOut">
+    <wsdl:part name="parameters" element="tns:AddkaroResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServeSoap">
+    <wsdl:operation name="Addkaro">
+      <wsdl:input message="tns:AddkaroSoapIn" />
+      <wsdl:output message="tns:AddkaroSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServeSoap" type="tns:WebServeSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Addkaro">
+      <soap:operation soapAction="http://tempuri.org/Addkaro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServeSoap12" type="tns:WebServeSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Addkaro">
+      <soap12:operation soapAction="http://tempuri.org/Addkaro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServe">
+    <wsdl:port name="WebServeSoap" binding="tns:WebServeSoap">
+      <soap:address location="http://localhost:12303/WebServe.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServeSoap12" binding="tns:WebServeSoap12">
+      <soap12:address location="http://localhost:12303/WebServe.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

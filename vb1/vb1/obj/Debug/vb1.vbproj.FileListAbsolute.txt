@@ -1,0 +1,22 @@
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\bin\Debug\vb1.exe.config
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\obj\Debug\vb1.Form1.resources
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\obj\Debug\vb1.Form2.resources
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\obj\Debug\vb1.Resources.resources
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\obj\Debug\vb1.vbproj.GenerateResource.Cache
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\bin\Debug\vb1.exe
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\bin\Debug\vb1.pdb
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\bin\Debug\vb1.xml
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\obj\Debug\vb1.exe
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\obj\Debug\vb1.xml
+C:\Users\Faisal\AppData\Local\Temporary Projects\vb1\obj\Debug\vb1.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\bin\Debug\vb1.exe.config
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\obj\Debug\vb1.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\obj\Debug\vb1.xml
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\obj\Debug\vb1.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\bin\Debug\vb1.exe
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\bin\Debug\vb1.pdb
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\bin\Debug\vb1.xml
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\obj\Debug\vb1.Form1.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\obj\Debug\vb1.Form2.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\obj\Debug\vb1.Resources.resources
+C:\Users\Faisal\Documents\Visual Studio 2012\Projects\vb1\vb1\obj\Debug\vb1.vbproj.GenerateResource.Cache
